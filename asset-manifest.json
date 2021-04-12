@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ztmReact-MonsterFriendz/static/css/main.a648ed63.chunk.css",
-    "main.js": "/ztmReact-MonsterFriendz/static/js/main.685823ce.chunk.js",
-    "main.js.map": "/ztmReact-MonsterFriendz/static/js/main.685823ce.chunk.js.map",
+    "main.js": "/ztmReact-MonsterFriendz/static/js/main.3e9f196b.chunk.js",
+    "main.js.map": "/ztmReact-MonsterFriendz/static/js/main.3e9f196b.chunk.js.map",
     "runtime-main.js": "/ztmReact-MonsterFriendz/static/js/runtime-main.dd0805b8.js",
     "runtime-main.js.map": "/ztmReact-MonsterFriendz/static/js/runtime-main.dd0805b8.js.map",
     "static/js/2.3ead83bd.chunk.js": "/ztmReact-MonsterFriendz/static/js/2.3ead83bd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd0805b8.js",
     "static/js/2.3ead83bd.chunk.js",
     "static/css/main.a648ed63.chunk.css",
-    "static/js/main.685823ce.chunk.js"
+    "static/js/main.3e9f196b.chunk.js"
   ]
 }
