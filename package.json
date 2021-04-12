@@ -2,7 +2,7 @@
   "name": "monsterfriendz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://calscodes.github.io/ztmReact-MonsterFriendz",
+  "homepage": "https://The-Cal-That-Codes.github.io/ztmReact-MonsterFriendz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
